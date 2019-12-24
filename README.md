@@ -1,30 +1,34 @@
 This is a website for our capstone project
 
-Website Components
+## Website Components
 
-Home Page
-Team Page
-Project Page
-Tutorial Page
-Home Page:
+1. Home Page
+2. Team Page
+3. Project Page
+4. Tutorial Page
 
-Welcome/Introduction
-Weekly updates
-Simple video of the project
-Team Page:
+### Home Page:
 
-Profile of each member
-Displays strengths, skills, etc...
-Project Page:
+1. Welcome/Introduction
+2. Weekly updates
+3. Simple video of the project
 
-Shows the completed milestones of the project
-Shows the gantt chart of the project
-Shows the progress of the project
-Shows the weekly updates
-Tutorial Page:
+### Team Page:
 
-Displays a link to youtube channel + videos
-Text content of the process of the project
+1. Profile of each member
+2. Displays strengths, skills, etc...
+
+### Project Page:
+
+1. Shows the completed milestones of the project
+2. Shows the gantt chart of the project
+3. Shows the progress of the project
+4. Shows the weekly updates
+
+### Tutorial Page:
+
+1. Displays a link to youtube channel + videos
+2. Text content of the process of the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
