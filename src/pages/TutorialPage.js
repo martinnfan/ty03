@@ -3,9 +3,9 @@ import React from 'react';
 const TutorialPage = () => {
     return (
         <div>
-            TutorialPage Works!
-            </div>
-    )
+            <h1>TutorialPage Works!</h1>
+        </div>
+    );
 };
 
 export default TutorialPage;

@@ -3,9 +3,9 @@ import React from 'react';
 const TeamPage = () => {
     return (
         <div>
-            TeamPage Works!
-            </div>
-    )
+            <h1>TeamPage Works!</h1>
+        </div>
+    );
 };
 
 export default TeamPage;
