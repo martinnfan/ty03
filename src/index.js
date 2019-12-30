@@ -6,7 +6,7 @@ import { render } from 'react-dom';
 import routes from './routes'
 
 import App from './App';
-import LabelBottomNavigation from './shared/header';
+import HeaderNavBar from './shared/header';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-//ReactDOM.render(<LabelBottomNavigation />, document.getElementById('root'));
+//ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<HeaderNavBar />, document.getElementById('root'));
